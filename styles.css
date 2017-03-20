@@ -1,0 +1,14 @@
+header { padding: 2em 0; background:#F2F2F2; }
+body { font:'Roboto', sans-serif; color:#777; background:#FFF; }
+h1, h2, h3, h4, h5, h6 { font-family:'Roboto', sans-serif; display:block; color:#384042; margin-bottom:20px; font-weight:normal; }
+h1.title { font-size:32px; background:#F2F2F2; }
+h2 { font-size:24px; }
+h3 { font-size:22px; }
+p { margin-bottom:22px; }
+img { width: 100%; }
+#nav { margin:0; padding:0; }
+#nav li { display:inline; padding:0; margin:0; background:#808259 url(nav_bg.jpg) 0 0 repeat-x; 	border:1px solid #42432d;
+	border-width:1px 0; }
+#nav a:link,
+#nav a:visited { color:#000; background:#b2b580 url(nav_bg.jpg) 0 0 repeat-x; padding:20px 40px 4px 10px; float:left;
+	width:auto;}
